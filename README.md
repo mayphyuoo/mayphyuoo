@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 📫 How to reach me mayphyuoo1211@gmail.com
-- 💻 https://mayp1211.github.io/My-Website/
+- 💻 https://mayphyuoo.github.io/My-Website/
 
 <!---
 mayP1211/mayP1211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
