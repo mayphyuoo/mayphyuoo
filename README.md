@@ -1,7 +1,7 @@
 - 👋 Hi, I’m May
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 📫 How to reach me mayphyuoo1211@gmail.com
+- 🌱 I’m currently learning python
+- 📫 How to reach me mayphyuoo.may@gmail.com
 - 💻 https://mayphyuoo.github.io/My-Website/
 
 <!---
