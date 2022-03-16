@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/may-phyu-oo-8b460717b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am May (she/her)</h1>
 
 <!-- <div id="header" align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3e542269-8836-44b9-a2b7-a39844589af5/ddfww3b-b1dc0022-22b9-4684-8d2b-5bb9a97c1adc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlNTQyMjY5LTg4MzYtNDRiOS1hMmI3LWEzOTg0NDU4OWFmNVwvZGRmd3czYi1iMWRjMDAyMi0yMmI5LTQ2ODQtOGQyYi01YmI5YTk3YzFhZGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WkHo0iS2z0x0_xLL5dvWrRChGBxdKXLnsbWK8VarkTA" width="100%"/>
