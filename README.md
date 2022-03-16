@@ -2,18 +2,15 @@
   <img src="https://media0.giphy.com/media/KB21ni7aFuA9wB0iQD/giphy.gif?cid=790b76113ae5480e8d51edb54230327e96098ba03027f17b&rid=giphy.gif&ct=s" width="350"/>
 </div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/may-phyu-oo-8b460717b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+# hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am May (she/her)
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am May (she/her)</h1>
+<!-- [<img align="left" alt="mayphyuoo | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="may_phyu_oo | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="mayphyuoo.may | Gmail" width="22px" src="./gmail.svg" />][gmail] -->
 
-<!-- <div id="header" align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3e542269-8836-44b9-a2b7-a39844589af5/ddfww3b-b1dc0022-22b9-4684-8d2b-5bb9a97c1adc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlNTQyMjY5LTg4MzYtNDRiOS1hMmI3LWEzOTg0NDU4OWFmNVwvZGRmd3czYi1iMWRjMDAyMi0yMmI5LTQ2ODQtOGQyYi01YmI5YTk3YzFhZGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WkHo0iS2z0x0_xLL5dvWrRChGBxdKXLnsbWK8VarkTA" width="100%"/>
-</div>
-
-<div align="right"><span>mini-moss art: </span><a href="https://mini-moss.tumblr.com/">click here</a></div>
- -->
+<br>
+<br>
+ 
 ### :woman_technologist: About Me :
 
 I am just programming student <img src="https://media4.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif?cid=790b76113b52d5689a72a73727795985eb5611161973b696&rid=giphy.gif&ct=s" width="30"> from Myanmar. :myanmar:
@@ -41,3 +38,9 @@ I am just programming student <img src="https://media4.giphy.com/media/9PwWklO9t
 ### :bar_chart: My stats :
 
 ![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayphyuoo&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide_title=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayphyuoo&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[linkedin]: https://www.linkedin.com/in/may-phyu-oo-8b460717b/
+[twitter]: https://twitter.com/may_phyu_oo
+[gmail]: mailto:mayphyuoo.may@gmail.com
