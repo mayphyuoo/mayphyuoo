@@ -9,3 +9,5 @@ mayP1211/mayP1211 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayphyuoo&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayphyuoo&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
