@@ -1,22 +1,20 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://media0.giphy.com/media/KB21ni7aFuA9wB0iQD/giphy.gif?cid=790b76113ae5480e8d51edb54230327e96098ba03027f17b&rid=giphy.gif&ct=s" width="350"/>
-</div>
+</div> -->
 
-# hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am May (she/her)
+# Hi, I am May (she/her) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<!-- [<img align="left" alt="mayphyuoo | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="mayphyuoo | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="may_phyu_oo | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="mayphyuoo.may | Gmail" width="22px" src="./gmail.svg" />][gmail] -->
+[<img align="left" alt="mayphyuoo.may | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
-<br>
 <br>
  
 ### :woman_technologist: About Me :
 
 I am just programming student <img src="https://media4.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif?cid=790b76113b52d5689a72a73727795985eb5611161973b696&rid=giphy.gif&ct=s" width="30"> from Myanmar. :myanmar:
 
-- 🌱 I’m currently learning python
-- 📫 How to reach me mayphyuoo.may@gmail.com
+- 🌱 I’m currently learning Python
 - 🌐 https://mayphyuoo.github.io/My-Website/
 
 ---
