@@ -4,7 +4,7 @@
 
 # Hi, I am May (she/her) <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"-->
 
-[<img align="left" alt="mayphyuoo | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="mayphyuoo | LinkedIn" width="22px" src="./linkedin.svg" target="_blank" />][linkedin]
 [<img align="left" alt="may_phyu_oo | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mayphyuoo.may | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
@@ -39,6 +39,6 @@ I am just programming student <img src="https://media4.giphy.com/media/9PwWklO9t
 
 
 
-[linkedin]: https://www.linkedin.com/in/may-phyu-oo-8b460717b/
+[linkedin]: https://www.linkedin.com/in/may-phyu-oo/
 [twitter]: https://twitter.com/may_phyu_oo
 [gmail]: mailto:mayphyuoo.may@gmail.com
