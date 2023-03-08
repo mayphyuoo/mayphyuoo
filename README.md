@@ -15,7 +15,7 @@
 I am just programming student <img src="https://media4.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif?cid=790b76113b52d5689a72a73727795985eb5611161973b696&rid=giphy.gif&ct=s" width="30"> from Myanmar.
 
 - 🌱 I’m currently learning Web Development
-- 🌐 https://mayphyuoo.github.io/My-Website/
+- 🌐 https://mayphyuoo.github.io/my-portfolio/
 
 ---
 
