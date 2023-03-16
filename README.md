@@ -7,7 +7,7 @@
 [<img align="left" alt="mayphyuoo | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="may_phyu_oo | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mayphyuoo.may | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="mayphyuoo.github.io/my-portfolio/ | Website" width="22px" src="./globe.svg" />][website]
+<!-- [<img align="left" alt="mayphyuoo.github.io/my-portfolio/ | Website" width="24.9px" src="./globe.svg" />][website] -->
 
 <br>
  
