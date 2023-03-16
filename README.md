@@ -7,6 +7,7 @@
 [<img align="left" alt="mayphyuoo | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="may_phyu_oo | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mayphyuoo.may | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="mayphyuoo.github.io/my-portfolio/ | Website" width="22px" src="./globe.svg" />][website]
 
 <br>
  
@@ -42,3 +43,4 @@ I am just programming student <img src="https://media4.giphy.com/media/9PwWklO9t
 [linkedin]: https://www.linkedin.com/in/may-phyu-oo/
 [twitter]: https://twitter.com/may_phyu_oo
 [gmail]: mailto:mayphyuoo.may@gmail.com
+[website]: https://mayphyuoo.github.io/my-portfolio/
